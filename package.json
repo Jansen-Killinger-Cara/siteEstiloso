@@ -8,10 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
     "framer-motion": "^13.4.1",
     "lucide-react": "^0.547.0",
-    "next": "latest",
+    "next": "^16.3.6",
+    "postcss": "^8.5.28",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "swr": "^2.5.1",
+    "tailwind": "^2.3.1",
+    "tailwindcss": "^4.3.3"
   }
 }
